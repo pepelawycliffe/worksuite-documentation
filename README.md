@@ -12,3 +12,4 @@ worksuite-documentation
 <img src="https://github.com/pepelawycliffe/worksuite-documentation/blob/main/worksuite-screenshot/7.png" width="1000">
 <img src="https://github.com/pepelawycliffe/worksuite-documentation/blob/main/worksuite-screenshot/8.png" width="1000">
 <img src="https://github.com/pepelawycliffe/worksuite-documentation/blob/main/worksuite-screenshot/9.png" width="1000">
+<img src="https://github.com/pepelawycliffe/worksuite-documentation/blob/main/worksuite-screenshot/10.png" width="1000">
